@@ -3,6 +3,7 @@
 # dependecies
 node_modules
 .env
+backend
 
 # misc
 .DS_Store
